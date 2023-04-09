@@ -10,11 +10,10 @@ Esté respositório foi criado para mostra tudo o que eu sei sobre a linguagem P
 
 ## 🏃 *SOBRE MIN*
 
-Olá me chamo Kelton Lima, tenho 19 anos estou cursando ADS, sou técnico em informática e apaixonado por programação. Meu objetivo de vida e ser programdor Back-end, tenho conhecimento back-end em Python e Java, além de saber Git e GitHub.[LinkedIn](https://www.linkedin.com/in/kelton-limaa/)
-https://www.linkedin.com/in/kelton-limaa/
+Olá me chamo Kelton Lima, tenho 19 anos estou cursando ADS, sou técnico em informática e apaixonado por programação. Meu objetivo de vida e ser programdor Back-end, tenho conhecimento back-end em Python e Java, além de saber Git e GitHub.                          [LinkedIn](https://www.linkedin.com/in/kelton-limaa/)
+
 
 ## 🎓 *REFERENCIA DOS CURSOS/DESAFIOS*
 
-*CURSO EM VIDEO*: O professor carioca Gustavo Guanabara sempre buscou criar aulas diferentes dentro da sua sala. Quando descobriu que poderia dar aulas para milhares de pessoas pela internet, criou seu primeiro curso de PHP em 2005. Desde aquela época, já teve mais de 8 milhões de downloads e colaborou para a formação de muitos programadores iniciantes.
+*CURSO EM VIDEO*: O professor carioca Gustavo Guanabara sempre buscou criar aulas diferentes dentro da sua sala. Quando descobriu que poderia dar aulas para milhares de pessoas pela internet, criou seu primeiro curso de PHP em 2005. Desde aquela época, já teve mais de 8 milhões de downloads e colaborou para a formação de muitos programadores iniciantes.         
 [Cursoemvideo](https://www.cursoemvideo.com)
-https://www.cursoemvideo.com
